@@ -1,0 +1,1 @@
+Create Database Amazoom_db;
